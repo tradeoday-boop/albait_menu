@@ -33,7 +33,7 @@ body {
     justify-content: center;
     text-align: center;
     overflow: hidden;
-    background: linear-gradient(rgba(0, 0, 0, .72), rgba(0, 0, 0, .78)), url("https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=2000") center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .72), rgba(0, 0, 0, .78)), url("https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=1600") center/cover;
     background-attachment: fixed;
 }
 
